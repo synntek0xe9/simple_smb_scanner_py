@@ -1,6 +1,6 @@
 # simple smb autoscan
 
-Python scanner for smb using s
+Python scanner for smb using pysmb
 
 # install required pakckages
 
